@@ -1,0 +1,13 @@
+#layered {
+  position:relative;
+}
+#layered > canvas {
+  position:absolute;
+  left:0;
+  top:0;
+}
+
+#group {
+  position:relative;
+  padding: 10px;
+}
